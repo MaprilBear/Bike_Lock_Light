@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TXU0101DCKR")(type "KiCad")(uri "${KIPRJMOD}/Symbols and Footprints/TXU0101DCKR/KiCad/TXU0101DCKR.kicad_sym")(options "")(descr ""))
+)
